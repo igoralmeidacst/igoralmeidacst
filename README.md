@@ -13,16 +13,16 @@ Tenho interesse em desenvolvimento web, programação e criação de soluções 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Desenvolvimento web
+## Desenvolvimento Web
 - HTML5
 - CSS3
 - JavaScript
 - PHP
 
-## Banco de dados
+## Banco de Dados
 - MySQL
 
-## Suporte e infraestrutura de TI
+## Suporte e Infraestrutura de TI
 - Suporte técnico
 - Manutenção de computadores
 - Redes de computadores
