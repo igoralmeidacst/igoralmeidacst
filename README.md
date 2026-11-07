@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou Igor Castro 👋
 
-<!--
-**igoralmeidacst/igoralmeidacst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou profissional da área de Tecnologia da Informação, com formação em Gestão da Tecnologia da Informação e atuação em suporte técnico e infraestrutura de TI.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento web, programação e criação de soluções tecnológicas para resolver problemas e otimizar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e conhecimentos
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Suporte técnico
+- Manutenção de computadores
+- Redes de computadores
+
+## 🚀 Projetos
+
+### Sistema de Abertura e Gerenciamento de Ordens de Serviço
+
+Sistema web desenvolvido para registrar solicitações e acompanhar ordens de serviço relacionadas à manutenção de equipamentos de informática.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript.
+
+[Visualizar projeto no GitHub](https://github.com/igoralmeidacst/sistema-manutencao.git)
+
+## 🎓 Formação
+
+- Tecnólogo em Gestão da Tecnologia da Informação.
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/igor-castro-0b912a254/)
