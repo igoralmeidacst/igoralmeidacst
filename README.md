@@ -6,11 +6,16 @@ Tenho interesse em desenvolvimento web, programação e criação de soluções 
 
 ## 💻 Tecnologias e conhecimentos
 
+## Desenvolvimento web
 - HTML5
 - CSS3
 - JavaScript
 - PHP
+
+## Banco de dados
 - MySQL
+
+## Suporte e infraestrutura de TI
 - Suporte técnico
 - Manutenção de computadores
 - Redes de computadores
